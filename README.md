@@ -4,7 +4,7 @@ This repo is exactly what you might imagine - a simple readme project for listin
 
 ## Smaller projects and demos
 
-- [Contacts keeping app]()
+- [Contacts keeping app](https://github.com/irisida/contact-keeper) - small demo project with node/express BE, mongoose abstraction to a ongoDB cluster and a react17 UI app.
 
 ## Quick & dirty / trivial projects
 
