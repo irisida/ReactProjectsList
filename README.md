@@ -1,10 +1,12 @@
-# ReactProjectsList
+# React Projects List
 
-This repo is exactly what you might imagine - a simple readme project for listing react based projects to be found throughout various repositories within this account.
+This repo is exactly what you might imagine it to be - a simple readme based project for listing react based projects to be found throughout various repositories within this account. The purpose is to make it easier to find a traverse projects in the repositories that are using react. The earliest are probably V16.8 based.
 
 ## Smaller projects and demos
 
-- [Contacts keeping app](https://github.com/irisida/contact-keeper) - small demo project with node/express BE, mongoose abstraction to a ongoDB cluster and a react17 UI app.
+- [Task Logger App]() - React FE/UI for logging tasks, creating resources ot habdle tasks and uses json-server as a fake API. Primary purpose is utilisation of redux.
+
+- [Contacts keeping app](https://github.com/irisida/contact-keeper) - small demo project with node/express BE, mongoose abstraction to a MongoDB cluster and a react17 FE/UI app. Demos the use of hooks/context combo.
 
 ## Quick & dirty / trivial projects
 
