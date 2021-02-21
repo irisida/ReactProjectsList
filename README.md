@@ -4,7 +4,7 @@ This repo is exactly what you might imagine it to be - a simple readme based pro
 
 ## Smaller projects and demos
 
-- [Task Logger App]() - React FE/UI for logging tasks, creating resources ot habdle tasks and uses json-server as a fake API. Primary purpose is utilisation of redux.
+- [Card-io - Task Logger App](https://github.com/irisida/card-io) - React FE/UI for logging tasks, creating resources ot handle tasks and uses json-server as a fake API. Primary purpose is utilisation of redux.
 
 - [Contacts keeping app](https://github.com/irisida/contact-keeper) - small demo project with node/express BE, mongoose abstraction to a MongoDB cluster and a react17 FE/UI app. Demos the use of hooks/context combo.
 
